@@ -1,6 +1,7 @@
-Ch 1 & 2 Lesson notes
+Ch 1 & 2 Lesson 
+Django for Beginners by William S. Vincent
 
-Command prompt comoon commands:
+Command prompt common commands:
 • cd (change down a directory)
 • cd .. (change up a directory)
 • ls (list files in your current directory)
@@ -9,7 +10,7 @@ Command prompt comoon commands:
 • touch (create a new file) for unix/linux
 • nul > file.py to create in Windows environment
  
- Download and install python 3.7.0 per instructions on official site.
+Download and install python 3.7.0 per instructions on official site.
  Set up virtual environment. 
 • This is important because by default software like Python and Django is installed in the same directory. This causes a problem when you want to work on multiple projects
 on the same computer.
